@@ -1,0 +1,10 @@
+C:\Users\oscar\source\repos\Control_Menu\Control_Menu\bin\Debug\Control_Menu.exe.config
+C:\Users\oscar\source\repos\Control_Menu\Control_Menu\bin\Debug\Control_Menu.exe
+C:\Users\oscar\source\repos\Control_Menu\Control_Menu\bin\Debug\Control_Menu.pdb
+C:\Users\oscar\source\repos\Control_Menu\Control_Menu\obj\Debug\Control_Menu.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Control_Menu\Control_Menu\obj\Debug\Control_Menu.Properties.Resources.resources
+C:\Users\oscar\source\repos\Control_Menu\Control_Menu\obj\Debug\Control_Menu.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\Control_Menu\Control_Menu\obj\Debug\Control_Menu.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Control_Menu\Control_Menu\obj\Debug\Control_Menu.exe
+C:\Users\oscar\source\repos\Control_Menu\Control_Menu\obj\Debug\Control_Menu.pdb
+C:\Users\oscar\source\repos\Control_Menu\Control_Menu\obj\Debug\Control_Menu.from_Calculadora_menu.resources

@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Estudio de caso\Estudio de caso\bin\Debug\Estudio de caso.exe.config
+C:\Users\oscar\source\repos\Estudio de caso\Estudio de caso\bin\Debug\Estudio de caso.exe
+C:\Users\oscar\source\repos\Estudio de caso\Estudio de caso\bin\Debug\Estudio de caso.pdb
+C:\Users\oscar\source\repos\Estudio de caso\Estudio de caso\obj\Debug\Estudio de caso.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Estudio de caso\Estudio de caso\obj\Debug\Estudio de caso.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Estudio de caso\Estudio de caso\obj\Debug\Estudio de caso.exe
+C:\Users\oscar\source\repos\Estudio de caso\Estudio de caso\obj\Debug\Estudio de caso.pdb

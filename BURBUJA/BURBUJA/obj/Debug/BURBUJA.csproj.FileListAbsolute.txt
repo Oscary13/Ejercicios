@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\BURBUJA\BURBUJA\obj\Debug\BURBUJA.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\BURBUJA\BURBUJA\obj\Debug\BURBUJA.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\BURBUJA\BURBUJA\bin\Debug\BURBUJA.exe.config
+C:\Users\oscar\source\repos\BURBUJA\BURBUJA\bin\Debug\BURBUJA.exe
+C:\Users\oscar\source\repos\BURBUJA\BURBUJA\bin\Debug\BURBUJA.pdb
+C:\Users\oscar\source\repos\BURBUJA\BURBUJA\obj\Debug\BURBUJA.exe
+C:\Users\oscar\source\repos\BURBUJA\BURBUJA\obj\Debug\BURBUJA.pdb

@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\ClientesProveedores\ClientesProveedores\obj\Debug\ClientesProveedores.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\ClientesProveedores\ClientesProveedores\obj\Debug\ClientesProveedores.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\ClientesProveedores\ClientesProveedores\bin\Debug\ClientesProveedores.exe.config
+C:\Users\oscar\source\repos\ClientesProveedores\ClientesProveedores\bin\Debug\ClientesProveedores.exe
+C:\Users\oscar\source\repos\ClientesProveedores\ClientesProveedores\bin\Debug\ClientesProveedores.pdb
+C:\Users\oscar\source\repos\ClientesProveedores\ClientesProveedores\obj\Debug\ClientesProveedores.exe
+C:\Users\oscar\source\repos\ClientesProveedores\ClientesProveedores\obj\Debug\ClientesProveedores.pdb

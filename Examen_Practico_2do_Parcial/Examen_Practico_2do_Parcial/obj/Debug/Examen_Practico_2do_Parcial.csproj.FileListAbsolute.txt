@@ -1,0 +1,10 @@
+C:\Users\oscar\source\repos\Examen_Practico_2do_Parcial\Examen_Practico_2do_Parcial\bin\Debug\Examen_Practico_2do_Parcial.exe.config
+C:\Users\oscar\source\repos\Examen_Practico_2do_Parcial\Examen_Practico_2do_Parcial\bin\Debug\Examen_Practico_2do_Parcial.exe
+C:\Users\oscar\source\repos\Examen_Practico_2do_Parcial\Examen_Practico_2do_Parcial\bin\Debug\Examen_Practico_2do_Parcial.pdb
+C:\Users\oscar\source\repos\Examen_Practico_2do_Parcial\Examen_Practico_2do_Parcial\obj\Debug\Examen_Practico_2do_Parcial.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Examen_Practico_2do_Parcial\Examen_Practico_2do_Parcial\obj\Debug\Examen_Practico_2do_Parcial.Examen.resources
+C:\Users\oscar\source\repos\Examen_Practico_2do_Parcial\Examen_Practico_2do_Parcial\obj\Debug\Examen_Practico_2do_Parcial.Properties.Resources.resources
+C:\Users\oscar\source\repos\Examen_Practico_2do_Parcial\Examen_Practico_2do_Parcial\obj\Debug\Examen_Practico_2do_Parcial.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\Examen_Practico_2do_Parcial\Examen_Practico_2do_Parcial\obj\Debug\Examen_Practico_2do_Parcial.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Examen_Practico_2do_Parcial\Examen_Practico_2do_Parcial\obj\Debug\Examen_Practico_2do_Parcial.exe
+C:\Users\oscar\source\repos\Examen_Practico_2do_Parcial\Examen_Practico_2do_Parcial\obj\Debug\Examen_Practico_2do_Parcial.pdb

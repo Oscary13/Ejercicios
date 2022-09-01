@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\1era Clase\1era Clase\bin\Debug\1era Clase.exe.config
+C:\Users\oscar\source\repos\1era Clase\1era Clase\bin\Debug\1era Clase.exe
+C:\Users\oscar\source\repos\1era Clase\1era Clase\bin\Debug\1era Clase.pdb
+C:\Users\oscar\source\repos\1era Clase\1era Clase\obj\Debug\1era Clase.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\1era Clase\1era Clase\obj\Debug\1era Clase.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\1era Clase\1era Clase\obj\Debug\1era Clase.exe
+C:\Users\oscar\source\repos\1era Clase\1era Clase\obj\Debug\1era Clase.pdb

@@ -1,0 +1,10 @@
+C:\Users\oscar\source\repos\PameBebé\PameBebé\bin\Debug\PameBebé.exe.config
+C:\Users\oscar\source\repos\PameBebé\PameBebé\bin\Debug\PameBebé.exe
+C:\Users\oscar\source\repos\PameBebé\PameBebé\bin\Debug\PameBebé.pdb
+C:\Users\oscar\source\repos\PameBebé\PameBebé\obj\Debug\PameBebé.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\PameBebé\PameBebé\obj\Debug\PameBebé.Form1.resources
+C:\Users\oscar\source\repos\PameBebé\PameBebé\obj\Debug\PameBebé.Properties.Resources.resources
+C:\Users\oscar\source\repos\PameBebé\PameBebé\obj\Debug\PameBebé.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\PameBebé\PameBebé\obj\Debug\PameBebé.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\PameBebé\PameBebé\obj\Debug\PameBebé.exe
+C:\Users\oscar\source\repos\PameBebé\PameBebé\obj\Debug\PameBebé.pdb

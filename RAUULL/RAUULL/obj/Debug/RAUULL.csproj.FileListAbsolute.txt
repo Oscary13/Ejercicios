@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\RAUULL\RAUULL\bin\Debug\RAUULL.exe.config
+C:\Users\oscar\source\repos\RAUULL\RAUULL\bin\Debug\RAUULL.exe
+C:\Users\oscar\source\repos\RAUULL\RAUULL\bin\Debug\RAUULL.pdb
+C:\Users\oscar\source\repos\RAUULL\RAUULL\obj\Debug\RAUULL.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\RAUULL\RAUULL\obj\Debug\RAUULL.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\RAUULL\RAUULL\obj\Debug\RAUULL.exe
+C:\Users\oscar\source\repos\RAUULL\RAUULL\obj\Debug\RAUULL.pdb

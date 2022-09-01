@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo Shell", "Metodo Shell\Metodo Shell.csproj", "{2F789DA5-76AA-42A5-9FD5-B2EAB8662EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F789DA5-76AA-42A5-9FD5-B2EAB8662EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F789DA5-76AA-42A5-9FD5-B2EAB8662EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F789DA5-76AA-42A5-9FD5-B2EAB8662EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F789DA5-76AA-42A5-9FD5-B2EAB8662EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {699C5E90-F8E4-4563-A01F-979B69F9C7C4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+C:\Users\oscar\source\repos\Examen__3\Examen__3\obj\Debug\Examen__3.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Examen__3\Examen__3\obj\Debug\Examen__3.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\exxamen\exxamen\bin\Debug\exxamen.exe.config
+C:\Users\oscar\source\repos\exxamen\exxamen\bin\Debug\exxamen.exe
+C:\Users\oscar\source\repos\exxamen\exxamen\bin\Debug\exxamen.pdb
+C:\Users\oscar\source\repos\exxamen\exxamen\obj\Debug\exxamen.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\exxamen\exxamen\obj\Debug\exxamen.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\exxamen\exxamen\obj\Debug\exxamen.exe
+C:\Users\oscar\source\repos\exxamen\exxamen\obj\Debug\exxamen.pdb

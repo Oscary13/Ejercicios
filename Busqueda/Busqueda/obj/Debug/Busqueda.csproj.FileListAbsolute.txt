@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Busqueda\Busqueda\bin\Debug\Busqueda.exe.config
+C:\Users\oscar\source\repos\Busqueda\Busqueda\bin\Debug\Busqueda.exe
+C:\Users\oscar\source\repos\Busqueda\Busqueda\bin\Debug\Busqueda.pdb
+C:\Users\oscar\source\repos\Busqueda\Busqueda\obj\Debug\Busqueda.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Busqueda\Busqueda\obj\Debug\Busqueda.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Busqueda\Busqueda\obj\Debug\Busqueda.exe
+C:\Users\oscar\source\repos\Busqueda\Busqueda\obj\Debug\Busqueda.pdb

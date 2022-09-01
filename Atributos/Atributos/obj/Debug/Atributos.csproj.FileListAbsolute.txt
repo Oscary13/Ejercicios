@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Atributos\Atributos\bin\Debug\Atributos.exe.config
+C:\Users\oscar\source\repos\Atributos\Atributos\bin\Debug\Atributos.exe
+C:\Users\oscar\source\repos\Atributos\Atributos\bin\Debug\Atributos.pdb
+C:\Users\oscar\source\repos\Atributos\Atributos\obj\Debug\Atributos.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Atributos\Atributos\obj\Debug\Atributos.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Atributos\Atributos\obj\Debug\Atributos.exe
+C:\Users\oscar\source\repos\Atributos\Atributos\obj\Debug\Atributos.pdb

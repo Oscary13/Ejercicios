@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Lista_Orden\Lista_Orden\bin\Debug\Lista_Orden.exe.config
+C:\Users\oscar\source\repos\Lista_Orden\Lista_Orden\bin\Debug\Lista_Orden.exe
+C:\Users\oscar\source\repos\Lista_Orden\Lista_Orden\bin\Debug\Lista_Orden.pdb
+C:\Users\oscar\source\repos\Lista_Orden\Lista_Orden\obj\Debug\Lista_Orden.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Lista_Orden\Lista_Orden\obj\Debug\Lista_Orden.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Lista_Orden\Lista_Orden\obj\Debug\Lista_Orden.exe
+C:\Users\oscar\source\repos\Lista_Orden\Lista_Orden\obj\Debug\Lista_Orden.pdb

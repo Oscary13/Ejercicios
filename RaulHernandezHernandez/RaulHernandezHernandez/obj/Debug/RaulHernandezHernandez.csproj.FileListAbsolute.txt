@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\RaulHernandezHernandez\RaulHernandezHernandez\obj\Debug\RaulHernandezHernandez.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\RaulHernandezHernandez\RaulHernandezHernandez\obj\Debug\RaulHernandezHernandez.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\RaulHernandezHernandez\RaulHernandezHernandez\bin\Debug\RaulHernandezHernandez.exe.config
+C:\Users\oscar\source\repos\RaulHernandezHernandez\RaulHernandezHernandez\bin\Debug\RaulHernandezHernandez.exe
+C:\Users\oscar\source\repos\RaulHernandezHernandez\RaulHernandezHernandez\bin\Debug\RaulHernandezHernandez.pdb
+C:\Users\oscar\source\repos\RaulHernandezHernandez\RaulHernandezHernandez\obj\Debug\RaulHernandezHernandez.exe
+C:\Users\oscar\source\repos\RaulHernandezHernandez\RaulHernandezHernandez\obj\Debug\RaulHernandezHernandez.pdb

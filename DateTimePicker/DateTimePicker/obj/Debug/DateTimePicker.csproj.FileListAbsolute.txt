@@ -1,0 +1,10 @@
+C:\Users\oscar\source\repos\DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.exe.config
+C:\Users\oscar\source\repos\DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.exe
+C:\Users\oscar\source\repos\DateTimePicker\DateTimePicker\bin\Debug\DateTimePicker.pdb
+C:\Users\oscar\source\repos\DateTimePicker\DateTimePicker\obj\Debug\DateTimePicker.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\DateTimePicker\DateTimePicker\obj\Debug\DateTimePicker.Form1.resources
+C:\Users\oscar\source\repos\DateTimePicker\DateTimePicker\obj\Debug\DateTimePicker.Properties.Resources.resources
+C:\Users\oscar\source\repos\DateTimePicker\DateTimePicker\obj\Debug\DateTimePicker.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\DateTimePicker\DateTimePicker\obj\Debug\DateTimePicker.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\DateTimePicker\DateTimePicker\obj\Debug\DateTimePicker.exe
+C:\Users\oscar\source\repos\DateTimePicker\DateTimePicker\obj\Debug\DateTimePicker.pdb

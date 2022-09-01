@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Vehiculo\Vehiculo\obj\Debug\Vehiculo.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Vehiculo\Vehiculo\obj\Debug\Vehiculo.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Vehiculo\Vehiculo\bin\Debug\Vehiculo.exe.config
+C:\Users\oscar\source\repos\Vehiculo\Vehiculo\bin\Debug\Vehiculo.exe
+C:\Users\oscar\source\repos\Vehiculo\Vehiculo\bin\Debug\Vehiculo.pdb
+C:\Users\oscar\source\repos\Vehiculo\Vehiculo\obj\Debug\Vehiculo.exe
+C:\Users\oscar\source\repos\Vehiculo\Vehiculo\obj\Debug\Vehiculo.pdb

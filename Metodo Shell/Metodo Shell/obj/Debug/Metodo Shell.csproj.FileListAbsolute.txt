@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Metodo Shell\Metodo Shell\obj\Debug\Metodo Shell.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Metodo Shell\Metodo Shell\obj\Debug\Metodo Shell.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Metodo Shell\Metodo Shell\bin\Debug\Metodo Shell.exe.config
+C:\Users\oscar\source\repos\Metodo Shell\Metodo Shell\bin\Debug\Metodo Shell.exe
+C:\Users\oscar\source\repos\Metodo Shell\Metodo Shell\bin\Debug\Metodo Shell.pdb
+C:\Users\oscar\source\repos\Metodo Shell\Metodo Shell\obj\Debug\Metodo Shell.exe
+C:\Users\oscar\source\repos\Metodo Shell\Metodo Shell\obj\Debug\Metodo Shell.pdb

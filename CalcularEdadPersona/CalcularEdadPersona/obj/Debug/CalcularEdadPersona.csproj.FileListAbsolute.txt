@@ -1,0 +1,10 @@
+C:\Users\oscar\source\repos\CalcularEdadPersona\CalcularEdadPersona\obj\Debug\CalcularEdadPersona.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\CalcularEdadPersona\CalcularEdadPersona\obj\Debug\CalcularEdadPersona.Form1.resources
+C:\Users\oscar\source\repos\CalcularEdadPersona\CalcularEdadPersona\obj\Debug\CalcularEdadPersona.Properties.Resources.resources
+C:\Users\oscar\source\repos\CalcularEdadPersona\CalcularEdadPersona\obj\Debug\CalcularEdadPersona.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\CalcularEdadPersona\CalcularEdadPersona\obj\Debug\CalcularEdadPersona.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\CalcularEdadPersona\CalcularEdadPersona\bin\Debug\CalcularEdadPersona.exe.config
+C:\Users\oscar\source\repos\CalcularEdadPersona\CalcularEdadPersona\bin\Debug\CalcularEdadPersona.exe
+C:\Users\oscar\source\repos\CalcularEdadPersona\CalcularEdadPersona\bin\Debug\CalcularEdadPersona.pdb
+C:\Users\oscar\source\repos\CalcularEdadPersona\CalcularEdadPersona\obj\Debug\CalcularEdadPersona.exe
+C:\Users\oscar\source\repos\CalcularEdadPersona\CalcularEdadPersona\obj\Debug\CalcularEdadPersona.pdb

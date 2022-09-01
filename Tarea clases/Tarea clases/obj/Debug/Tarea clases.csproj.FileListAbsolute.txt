@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Tarea clases\Tarea clases\bin\Debug\Tarea clases.exe.config
+C:\Users\oscar\source\repos\Tarea clases\Tarea clases\bin\Debug\Tarea clases.exe
+C:\Users\oscar\source\repos\Tarea clases\Tarea clases\bin\Debug\Tarea clases.pdb
+C:\Users\oscar\source\repos\Tarea clases\Tarea clases\obj\Debug\Tarea clases.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Tarea clases\Tarea clases\obj\Debug\Tarea clases.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Tarea clases\Tarea clases\obj\Debug\Tarea clases.exe
+C:\Users\oscar\source\repos\Tarea clases\Tarea clases\obj\Debug\Tarea clases.pdb

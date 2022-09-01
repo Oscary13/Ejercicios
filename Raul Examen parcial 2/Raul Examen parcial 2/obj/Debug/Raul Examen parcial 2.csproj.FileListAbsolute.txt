@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Raul Examen parcial 2\Raul Examen parcial 2\bin\Debug\Raul Examen parcial 2.exe.config
+C:\Users\oscar\source\repos\Raul Examen parcial 2\Raul Examen parcial 2\bin\Debug\Raul Examen parcial 2.exe
+C:\Users\oscar\source\repos\Raul Examen parcial 2\Raul Examen parcial 2\bin\Debug\Raul Examen parcial 2.pdb
+C:\Users\oscar\source\repos\Raul Examen parcial 2\Raul Examen parcial 2\obj\Debug\Raul Examen parcial 2.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Raul Examen parcial 2\Raul Examen parcial 2\obj\Debug\Raul Examen parcial 2.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Raul Examen parcial 2\Raul Examen parcial 2\obj\Debug\Raul Examen parcial 2.exe
+C:\Users\oscar\source\repos\Raul Examen parcial 2\Raul Examen parcial 2\obj\Debug\Raul Examen parcial 2.pdb

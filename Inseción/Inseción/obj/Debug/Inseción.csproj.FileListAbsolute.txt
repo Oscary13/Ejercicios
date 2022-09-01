@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Inseción\Inseción\obj\Debug\Inseción.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Inseción\Inseción\obj\Debug\Inseción.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Inseción\Inseción\bin\Debug\Inseción.exe.config
+C:\Users\oscar\source\repos\Inseción\Inseción\bin\Debug\Inseción.exe
+C:\Users\oscar\source\repos\Inseción\Inseción\bin\Debug\Inseción.pdb
+C:\Users\oscar\source\repos\Inseción\Inseción\obj\Debug\Inseción.exe
+C:\Users\oscar\source\repos\Inseción\Inseción\obj\Debug\Inseción.pdb

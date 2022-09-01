@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BANDERA_DE_MEXICO", "BANDERA_DE_MEXICO\BANDERA_DE_MEXICO.csproj", "{2C71C035-B922-48BE-BBD6-1BADB30C6B81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C71C035-B922-48BE-BBD6-1BADB30C6B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C71C035-B922-48BE-BBD6-1BADB30C6B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C71C035-B922-48BE-BBD6-1BADB30C6B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C71C035-B922-48BE-BBD6-1BADB30C6B81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD758FDA-FE61-4646-AE2A-E1DF5BF86661}
+	EndGlobalSection
+EndGlobal

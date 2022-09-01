@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Incremento de cantidades\Incremento de cantidades\bin\Debug\Incremento de cantidades.exe.config
+C:\Users\oscar\source\repos\Incremento de cantidades\Incremento de cantidades\bin\Debug\Incremento de cantidades.exe
+C:\Users\oscar\source\repos\Incremento de cantidades\Incremento de cantidades\bin\Debug\Incremento de cantidades.pdb
+C:\Users\oscar\source\repos\Incremento de cantidades\Incremento de cantidades\obj\Debug\Incremento de cantidades.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Incremento de cantidades\Incremento de cantidades\obj\Debug\Incremento de cantidades.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Incremento de cantidades\Incremento de cantidades\obj\Debug\Incremento de cantidades.exe
+C:\Users\oscar\source\repos\Incremento de cantidades\Incremento de cantidades\obj\Debug\Incremento de cantidades.pdb

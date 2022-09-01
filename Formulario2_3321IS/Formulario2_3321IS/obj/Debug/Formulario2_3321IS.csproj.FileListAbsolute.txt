@@ -1,0 +1,10 @@
+C:\Users\oscar\source\repos\Formulario2_3321IS\Formulario2_3321IS\bin\Debug\Formulario2_3321IS.exe.config
+C:\Users\oscar\source\repos\Formulario2_3321IS\Formulario2_3321IS\bin\Debug\Formulario2_3321IS.exe
+C:\Users\oscar\source\repos\Formulario2_3321IS\Formulario2_3321IS\bin\Debug\Formulario2_3321IS.pdb
+C:\Users\oscar\source\repos\Formulario2_3321IS\Formulario2_3321IS\obj\Debug\Formulario2_3321IS.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Formulario2_3321IS\Formulario2_3321IS\obj\Debug\Formulario2_3321IS.Form_Escuela.resources
+C:\Users\oscar\source\repos\Formulario2_3321IS\Formulario2_3321IS\obj\Debug\Formulario2_3321IS.Properties.Resources.resources
+C:\Users\oscar\source\repos\Formulario2_3321IS\Formulario2_3321IS\obj\Debug\Formulario2_3321IS.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\Formulario2_3321IS\Formulario2_3321IS\obj\Debug\Formulario2_3321IS.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Formulario2_3321IS\Formulario2_3321IS\obj\Debug\Formulario2_3321IS.exe
+C:\Users\oscar\source\repos\Formulario2_3321IS\Formulario2_3321IS\obj\Debug\Formulario2_3321IS.pdb

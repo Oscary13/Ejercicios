@@ -1,0 +1,14 @@
+C:\Users\oscar\source\repos\Validar\Validar\bin\Debug\Validar.exe.config
+C:\Users\oscar\source\repos\Validar\Validar\bin\Debug\Validar.exe
+C:\Users\oscar\source\repos\Validar\Validar\bin\Debug\Validar.pdb
+C:\Users\oscar\source\repos\Validar\Validar\obj\Debug\Validar.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Validar\Validar\obj\Debug\Validar.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Validar\Validar\obj\Debug\Validar.exe
+C:\Users\oscar\source\repos\Validar\Validar\obj\Debug\Validar.pdb
+E:\repos\Validar\Validar\bin\Debug\Validar.exe.config
+E:\repos\Validar\Validar\bin\Debug\Validar.exe
+E:\repos\Validar\Validar\bin\Debug\Validar.pdb
+E:\repos\Validar\Validar\obj\Debug\Validar.csprojAssemblyReference.cache
+E:\repos\Validar\Validar\obj\Debug\Validar.csproj.CoreCompileInputs.cache
+E:\repos\Validar\Validar\obj\Debug\Validar.exe
+E:\repos\Validar\Validar\obj\Debug\Validar.pdb

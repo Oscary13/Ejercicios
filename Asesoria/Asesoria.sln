@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aSESORIA_3221IS", "aSESORIA_3221IS\aSESORIA_3221IS.csproj", "{F3181B10-D971-499D-A3E5-A44EE74A845B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3181B10-D971-499D-A3E5-A44EE74A845B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3181B10-D971-499D-A3E5-A44EE74A845B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3181B10-D971-499D-A3E5-A44EE74A845B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3181B10-D971-499D-A3E5-A44EE74A845B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77972686-B107-4C2F-AC53-F4DD40C8FAAE}
+	EndGlobalSection
+EndGlobal

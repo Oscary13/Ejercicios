@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Programa_claseAbstracta\Programa_claseAbstracta\obj\Debug\Programa_claseAbstracta.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Programa_claseAbstracta\Programa_claseAbstracta\obj\Debug\Programa_claseAbstracta.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Programa_claseAbstracta\Programa_claseAbstracta\bin\Debug\Programa_claseAbstracta.exe.config
+C:\Users\oscar\source\repos\Programa_claseAbstracta\Programa_claseAbstracta\bin\Debug\Programa_claseAbstracta.exe
+C:\Users\oscar\source\repos\Programa_claseAbstracta\Programa_claseAbstracta\bin\Debug\Programa_claseAbstracta.pdb
+C:\Users\oscar\source\repos\Programa_claseAbstracta\Programa_claseAbstracta\obj\Debug\Programa_claseAbstracta.exe
+C:\Users\oscar\source\repos\Programa_claseAbstracta\Programa_claseAbstracta\obj\Debug\Programa_claseAbstracta.pdb

@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Busqueda_ecuencial_De_Un_Dato\Busqueda_ecuencial_De_Un_Dato\bin\Debug\Busqueda_ecuencial_De_Un_Dato.exe.config
+C:\Users\oscar\source\repos\Busqueda_ecuencial_De_Un_Dato\Busqueda_ecuencial_De_Un_Dato\bin\Debug\Busqueda_ecuencial_De_Un_Dato.exe
+C:\Users\oscar\source\repos\Busqueda_ecuencial_De_Un_Dato\Busqueda_ecuencial_De_Un_Dato\bin\Debug\Busqueda_ecuencial_De_Un_Dato.pdb
+C:\Users\oscar\source\repos\Busqueda_ecuencial_De_Un_Dato\Busqueda_ecuencial_De_Un_Dato\obj\Debug\Busqueda_Secuencial_De_Un_Dato.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Busqueda_ecuencial_De_Un_Dato\Busqueda_ecuencial_De_Un_Dato\obj\Debug\Busqueda_Secuencial_De_Un_Dato.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Busqueda_ecuencial_De_Un_Dato\Busqueda_ecuencial_De_Un_Dato\obj\Debug\Busqueda_ecuencial_De_Un_Dato.exe
+C:\Users\oscar\source\repos\Busqueda_ecuencial_De_Un_Dato\Busqueda_ecuencial_De_Un_Dato\obj\Debug\Busqueda_ecuencial_De_Un_Dato.pdb

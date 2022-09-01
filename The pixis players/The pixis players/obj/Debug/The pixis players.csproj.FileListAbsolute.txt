@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\The pixis players\The pixis players\obj\Debug\The pixis players.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\The pixis players\The pixis players\obj\Debug\The pixis players.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\The pixis players\The pixis players\bin\Debug\The pixis players.exe.config
+C:\Users\oscar\source\repos\The pixis players\The pixis players\bin\Debug\The pixis players.exe
+C:\Users\oscar\source\repos\The pixis players\The pixis players\bin\Debug\The pixis players.pdb
+C:\Users\oscar\source\repos\The pixis players\The pixis players\obj\Debug\The pixis players.exe
+C:\Users\oscar\source\repos\The pixis players\The pixis players\obj\Debug\The pixis players.pdb

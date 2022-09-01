@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\MATRIZZZ\MATRIZZZ\obj\Debug\MATRIZZZ.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\MATRIZZZ\MATRIZZZ\obj\Debug\MATRIZZZ.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\MATRIZZZ\MATRIZZZ\bin\Debug\MATRIZZZ.exe.config
+C:\Users\oscar\source\repos\MATRIZZZ\MATRIZZZ\bin\Debug\MATRIZZZ.exe
+C:\Users\oscar\source\repos\MATRIZZZ\MATRIZZZ\bin\Debug\MATRIZZZ.pdb
+C:\Users\oscar\source\repos\MATRIZZZ\MATRIZZZ\obj\Debug\MATRIZZZ.exe
+C:\Users\oscar\source\repos\MATRIZZZ\MATRIZZZ\obj\Debug\MATRIZZZ.pdb

@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\OscaryBasurtoBasurto\OscaryBasurtoBasurto\obj\Debug\OscaryBasurtoBasurto.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\OscaryBasurtoBasurto\OscaryBasurtoBasurto\obj\Debug\OscaryBasurtoBasurto.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\OscaryBasurtoBasurto\OscaryBasurtoBasurto\bin\Debug\OscaryBasurtoBasurto.exe.config
+C:\Users\oscar\source\repos\OscaryBasurtoBasurto\OscaryBasurtoBasurto\bin\Debug\OscaryBasurtoBasurto.exe
+C:\Users\oscar\source\repos\OscaryBasurtoBasurto\OscaryBasurtoBasurto\bin\Debug\OscaryBasurtoBasurto.pdb
+C:\Users\oscar\source\repos\OscaryBasurtoBasurto\OscaryBasurtoBasurto\obj\Debug\OscaryBasurtoBasurto.exe
+C:\Users\oscar\source\repos\OscaryBasurtoBasurto\OscaryBasurtoBasurto\obj\Debug\OscaryBasurtoBasurto.pdb

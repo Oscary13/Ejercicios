@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\OBB2\OBB2\bin\Debug\OBB2.exe.config
+C:\Users\oscar\source\repos\OBB2\OBB2\bin\Debug\OBB2.exe
+C:\Users\oscar\source\repos\OBB2\OBB2\bin\Debug\OBB2.pdb
+C:\Users\oscar\source\repos\OBB2\OBB2\obj\Debug\OBB2.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\OBB2\OBB2\obj\Debug\OBB2.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\OBB2\OBB2\obj\Debug\OBB2.exe
+C:\Users\oscar\source\repos\OBB2\OBB2\obj\Debug\OBB2.pdb

@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Examen 3\Examen 3\bin\Debug\Examen 3.exe.config
+C:\Users\oscar\source\repos\Examen 3\Examen 3\bin\Debug\Examen 3.exe
+C:\Users\oscar\source\repos\Examen 3\Examen 3\bin\Debug\Examen 3.pdb
+C:\Users\oscar\source\repos\Examen 3\Examen 3\obj\Debug\Examen 3.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Examen 3\Examen 3\obj\Debug\Examen 3.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Examen 3\Examen 3\obj\Debug\Examen 3.exe
+C:\Users\oscar\source\repos\Examen 3\Examen 3\obj\Debug\Examen 3.pdb

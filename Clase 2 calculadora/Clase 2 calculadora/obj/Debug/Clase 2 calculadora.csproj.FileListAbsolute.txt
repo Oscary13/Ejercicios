@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Clase 2 calculadora\Clase 2 calculadora\bin\Debug\Clase 2 calculadora.exe.config
+C:\Users\oscar\source\repos\Clase 2 calculadora\Clase 2 calculadora\bin\Debug\Clase 2 calculadora.exe
+C:\Users\oscar\source\repos\Clase 2 calculadora\Clase 2 calculadora\bin\Debug\Clase 2 calculadora.pdb
+C:\Users\oscar\source\repos\Clase 2 calculadora\Clase 2 calculadora\obj\Debug\Clase 2 calculadora.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Clase 2 calculadora\Clase 2 calculadora\obj\Debug\Clase 2 calculadora.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Clase 2 calculadora\Clase 2 calculadora\obj\Debug\Clase 2 calculadora.exe
+C:\Users\oscar\source\repos\Clase 2 calculadora\Clase 2 calculadora\obj\Debug\Clase 2 calculadora.pdb

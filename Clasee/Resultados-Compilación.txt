@@ -1,0 +1,4 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: Clasee, configuración: Debug Any CPU ------
+1>C:\Users\oscar\source\repos\Clasee\Clasee\Program.cs(22,45,22,46): error CS1526: Una nueva expresión requiere una lista de argumentos o (), [] o {} después del tipo
+========== Compilar: 0 correctos, 1 incorrectos, 0 actualizados, 0 omitidos ==========

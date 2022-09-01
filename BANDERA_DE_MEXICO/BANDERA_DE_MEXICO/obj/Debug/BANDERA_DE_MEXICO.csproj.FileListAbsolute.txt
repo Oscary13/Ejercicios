@@ -1,0 +1,15 @@
+C:\Users\oscar\source\repos\BANDERA_DE_MEXICO\BANDERA_DE_MEXICO\bin\Debug\BANDERA_DE_MEXICO.exe.config
+C:\Users\oscar\source\repos\BANDERA_DE_MEXICO\BANDERA_DE_MEXICO\bin\Debug\BANDERA_DE_MEXICO.exe
+C:\Users\oscar\source\repos\BANDERA_DE_MEXICO\BANDERA_DE_MEXICO\bin\Debug\BANDERA_DE_MEXICO.pdb
+C:\Users\oscar\source\repos\BANDERA_DE_MEXICO\BANDERA_DE_MEXICO\obj\Debug\BANDERA_DE_MEXICO.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\BANDERA_DE_MEXICO\BANDERA_DE_MEXICO\obj\Debug\BANDERA_DE_MEXICO.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\BANDERA_DE_MEXICO\BANDERA_DE_MEXICO\obj\Debug\BANDERA_DE_MEXICO.exe
+C:\Users\oscar\source\repos\BANDERA_DE_MEXICO\BANDERA_DE_MEXICO\obj\Debug\BANDERA_DE_MEXICO.pdb
+C:\Users\User\OneDrive\Escritorio\Ejercicios\BANDERA_DE_MEXICO\BANDERA_DE_MEXICO\bin\Debug\BANDERA_DE_MEXICO.exe.config
+C:\Users\User\OneDrive\Escritorio\Ejercicios\BANDERA_DE_MEXICO\BANDERA_DE_MEXICO\bin\Debug\BANDERA_DE_MEXICO.exe
+C:\Users\User\OneDrive\Escritorio\Ejercicios\BANDERA_DE_MEXICO\BANDERA_DE_MEXICO\bin\Debug\BANDERA_DE_MEXICO.pdb
+C:\Users\User\OneDrive\Escritorio\Ejercicios\BANDERA_DE_MEXICO\BANDERA_DE_MEXICO\obj\Debug\BANDERA_DE_MEXICO.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\Ejercicios\BANDERA_DE_MEXICO\BANDERA_DE_MEXICO\obj\Debug\BANDERA_DE_MEXICO.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Escritorio\Ejercicios\BANDERA_DE_MEXICO\BANDERA_DE_MEXICO\obj\Debug\BANDERA_DE_MEXICO.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\Ejercicios\BANDERA_DE_MEXICO\BANDERA_DE_MEXICO\obj\Debug\BANDERA_DE_MEXICO.exe
+C:\Users\User\OneDrive\Escritorio\Ejercicios\BANDERA_DE_MEXICO\BANDERA_DE_MEXICO\obj\Debug\BANDERA_DE_MEXICO.pdb

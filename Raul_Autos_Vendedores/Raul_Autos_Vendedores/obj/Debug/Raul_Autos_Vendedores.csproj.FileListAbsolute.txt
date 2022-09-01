@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Raul_Autos_Vendedores\Raul_Autos_Vendedores\obj\Debug\Raul_Autos_Vendedores.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Raul_Autos_Vendedores\Raul_Autos_Vendedores\obj\Debug\Raul_Autos_Vendedores.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Raul_Autos_Vendedores\Raul_Autos_Vendedores\bin\Debug\Raul_Autos_Vendedores.exe.config
+C:\Users\oscar\source\repos\Raul_Autos_Vendedores\Raul_Autos_Vendedores\bin\Debug\Raul_Autos_Vendedores.exe
+C:\Users\oscar\source\repos\Raul_Autos_Vendedores\Raul_Autos_Vendedores\bin\Debug\Raul_Autos_Vendedores.pdb
+C:\Users\oscar\source\repos\Raul_Autos_Vendedores\Raul_Autos_Vendedores\obj\Debug\Raul_Autos_Vendedores.exe
+C:\Users\oscar\source\repos\Raul_Autos_Vendedores\Raul_Autos_Vendedores\obj\Debug\Raul_Autos_Vendedores.pdb

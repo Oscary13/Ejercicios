@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\HOOOY\HOOOY\bin\Debug\HOOOY.exe.config
+C:\Users\oscar\source\repos\HOOOY\HOOOY\bin\Debug\HOOOY.exe
+C:\Users\oscar\source\repos\HOOOY\HOOOY\bin\Debug\HOOOY.pdb
+C:\Users\oscar\source\repos\HOOOY\HOOOY\obj\Debug\HOOOY.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\HOOOY\HOOOY\obj\Debug\HOOOY.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\HOOOY\HOOOY\obj\Debug\HOOOY.exe
+C:\Users\oscar\source\repos\HOOOY\HOOOY\obj\Debug\HOOOY.pdb

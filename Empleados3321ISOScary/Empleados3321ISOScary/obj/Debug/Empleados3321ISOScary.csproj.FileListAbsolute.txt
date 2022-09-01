@@ -1,0 +1,10 @@
+C:\Users\oscar\source\repos\Empleados3321ISOScary\Empleados3321ISOScary\bin\Debug\Empleados3321ISOScary.exe.config
+C:\Users\oscar\source\repos\Empleados3321ISOScary\Empleados3321ISOScary\bin\Debug\Empleados3321ISOScary.exe
+C:\Users\oscar\source\repos\Empleados3321ISOScary\Empleados3321ISOScary\bin\Debug\Empleados3321ISOScary.pdb
+C:\Users\oscar\source\repos\Empleados3321ISOScary\Empleados3321ISOScary\obj\Debug\Empleados3321ISOScary.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Empleados3321ISOScary\Empleados3321ISOScary\obj\Debug\Empleados3321ISOScary.FrmTurno.resources
+C:\Users\oscar\source\repos\Empleados3321ISOScary\Empleados3321ISOScary\obj\Debug\Empleados3321ISOScary.Properties.Resources.resources
+C:\Users\oscar\source\repos\Empleados3321ISOScary\Empleados3321ISOScary\obj\Debug\Empleados3321ISOScary.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\Empleados3321ISOScary\Empleados3321ISOScary\obj\Debug\Empleados3321ISOScary.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Empleados3321ISOScary\Empleados3321ISOScary\obj\Debug\Empleados3321ISOScary.exe
+C:\Users\oscar\source\repos\Empleados3321ISOScary\Empleados3321ISOScary\obj\Debug\Empleados3321ISOScary.pdb

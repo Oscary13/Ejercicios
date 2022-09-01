@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Carmen Arreglo\Carmen Arreglo\obj\Debug\Carmen Arreglo.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Carmen Arreglo\Carmen Arreglo\obj\Debug\Carmen Arreglo.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Carmen Arreglo\Carmen Arreglo\bin\Debug\Carmen Arreglo.exe.config
+C:\Users\oscar\source\repos\Carmen Arreglo\Carmen Arreglo\bin\Debug\Carmen Arreglo.exe
+C:\Users\oscar\source\repos\Carmen Arreglo\Carmen Arreglo\bin\Debug\Carmen Arreglo.pdb
+C:\Users\oscar\source\repos\Carmen Arreglo\Carmen Arreglo\obj\Debug\Carmen Arreglo.exe
+C:\Users\oscar\source\repos\Carmen Arreglo\Carmen Arreglo\obj\Debug\Carmen Arreglo.pdb

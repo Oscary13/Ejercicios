@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Examen - Estacionamiento\Examen - Estacionamiento\obj\Debug\Examen - Estacionamiento.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Examen - Estacionamiento\Examen - Estacionamiento\obj\Debug\Examen - Estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Examen - Estacionamiento\Examen - Estacionamiento\bin\Debug\Examen - Estacionamiento.exe.config
+C:\Users\oscar\source\repos\Examen - Estacionamiento\Examen - Estacionamiento\bin\Debug\Examen - Estacionamiento.exe
+C:\Users\oscar\source\repos\Examen - Estacionamiento\Examen - Estacionamiento\bin\Debug\Examen - Estacionamiento.pdb
+C:\Users\oscar\source\repos\Examen - Estacionamiento\Examen - Estacionamiento\obj\Debug\Examen - Estacionamiento.exe
+C:\Users\oscar\source\repos\Examen - Estacionamiento\Examen - Estacionamiento\obj\Debug\Examen - Estacionamiento.pdb

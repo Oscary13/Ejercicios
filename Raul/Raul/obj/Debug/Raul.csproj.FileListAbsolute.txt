@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Raul\Raul\obj\Debug\Raul.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Raul\Raul\obj\Debug\Raul.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Raul\Raul\bin\Debug\Raul.exe.config
+C:\Users\oscar\source\repos\Raul\Raul\bin\Debug\Raul.exe
+C:\Users\oscar\source\repos\Raul\Raul\bin\Debug\Raul.pdb
+C:\Users\oscar\source\repos\Raul\Raul\obj\Debug\Raul.exe
+C:\Users\oscar\source\repos\Raul\Raul\obj\Debug\Raul.pdb

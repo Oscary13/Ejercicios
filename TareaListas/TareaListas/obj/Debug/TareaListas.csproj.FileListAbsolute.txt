@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\TareaListas\TareaListas\obj\Debug\TareaListas.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\TareaListas\TareaListas\obj\Debug\TareaListas.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\TareaListas\TareaListas\bin\Debug\TareaListas.exe.config
+C:\Users\oscar\source\repos\TareaListas\TareaListas\bin\Debug\TareaListas.exe
+C:\Users\oscar\source\repos\TareaListas\TareaListas\bin\Debug\TareaListas.pdb
+C:\Users\oscar\source\repos\TareaListas\TareaListas\obj\Debug\TareaListas.exe
+C:\Users\oscar\source\repos\TareaListas\TareaListas\obj\Debug\TareaListas.pdb

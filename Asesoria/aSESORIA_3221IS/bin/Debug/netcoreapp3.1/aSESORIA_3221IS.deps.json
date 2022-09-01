@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "aSESORIA_3221IS/1.0.0": {
+        "runtime": {
+          "aSESORIA_3221IS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aSESORIA_3221IS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

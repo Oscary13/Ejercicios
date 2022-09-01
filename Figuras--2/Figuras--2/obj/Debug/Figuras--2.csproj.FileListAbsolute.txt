@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Figuras--2\Figuras--2\obj\Debug\Figuras--2.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Figuras--2\Figuras--2\obj\Debug\Figuras--2.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Figuras--2\Figuras--2\bin\Debug\Figuras--2.exe.config
+C:\Users\oscar\source\repos\Figuras--2\Figuras--2\bin\Debug\Figuras--2.exe
+C:\Users\oscar\source\repos\Figuras--2\Figuras--2\bin\Debug\Figuras--2.pdb
+C:\Users\oscar\source\repos\Figuras--2\Figuras--2\obj\Debug\Figuras--2.exe
+C:\Users\oscar\source\repos\Figuras--2\Figuras--2\obj\Debug\Figuras--2.pdb

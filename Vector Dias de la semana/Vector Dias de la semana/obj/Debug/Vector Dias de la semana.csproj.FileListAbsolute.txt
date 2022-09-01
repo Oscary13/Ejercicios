@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Vector Dias de la semana\Vector Dias de la semana\bin\Debug\Vector Dias de la semana.exe.config
+C:\Users\oscar\source\repos\Vector Dias de la semana\Vector Dias de la semana\bin\Debug\Vector Dias de la semana.exe
+C:\Users\oscar\source\repos\Vector Dias de la semana\Vector Dias de la semana\bin\Debug\Vector Dias de la semana.pdb
+C:\Users\oscar\source\repos\Vector Dias de la semana\Vector Dias de la semana\obj\Debug\Vector Dias de la semana.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Vector Dias de la semana\Vector Dias de la semana\obj\Debug\Vector Dias de la semana.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Vector Dias de la semana\Vector Dias de la semana\obj\Debug\Vector Dias de la semana.exe
+C:\Users\oscar\source\repos\Vector Dias de la semana\Vector Dias de la semana\obj\Debug\Vector Dias de la semana.pdb

@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Tablas de multiplicar\Tablas de multiplicar\bin\Debug\Tablas de multiplicar.exe.config
+C:\Users\oscar\source\repos\Tablas de multiplicar\Tablas de multiplicar\bin\Debug\Tablas de multiplicar.exe
+C:\Users\oscar\source\repos\Tablas de multiplicar\Tablas de multiplicar\bin\Debug\Tablas de multiplicar.pdb
+C:\Users\oscar\source\repos\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.exe
+C:\Users\oscar\source\repos\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\Tablas de multiplicar.pdb

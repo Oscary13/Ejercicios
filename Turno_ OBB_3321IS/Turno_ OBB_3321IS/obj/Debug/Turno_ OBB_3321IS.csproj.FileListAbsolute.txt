@@ -1,0 +1,10 @@
+C:\Users\oscar\source\repos\Turno_ OBB_3321IS\Turno_ OBB_3321IS\bin\Debug\Turno_ OBB_3321IS.exe.config
+C:\Users\oscar\source\repos\Turno_ OBB_3321IS\Turno_ OBB_3321IS\bin\Debug\Turno_ OBB_3321IS.exe
+C:\Users\oscar\source\repos\Turno_ OBB_3321IS\Turno_ OBB_3321IS\bin\Debug\Turno_ OBB_3321IS.pdb
+C:\Users\oscar\source\repos\Turno_ OBB_3321IS\Turno_ OBB_3321IS\obj\Debug\Turno_ OBB_3321IS.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Turno_ OBB_3321IS\Turno_ OBB_3321IS\obj\Debug\Turno__OBB_3321IS.FrmTurno.resources
+C:\Users\oscar\source\repos\Turno_ OBB_3321IS\Turno_ OBB_3321IS\obj\Debug\Turno__OBB_3321IS.Properties.Resources.resources
+C:\Users\oscar\source\repos\Turno_ OBB_3321IS\Turno_ OBB_3321IS\obj\Debug\Turno_ OBB_3321IS.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\Turno_ OBB_3321IS\Turno_ OBB_3321IS\obj\Debug\Turno_ OBB_3321IS.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Turno_ OBB_3321IS\Turno_ OBB_3321IS\obj\Debug\Turno_ OBB_3321IS.exe
+C:\Users\oscar\source\repos\Turno_ OBB_3321IS\Turno_ OBB_3321IS\obj\Debug\Turno_ OBB_3321IS.pdb

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PameBebé", "PameBebé\PameBebé.csproj", "{CE7FB284-B31E-4C05-9BE7-7CA832AFCA17}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PameeBebé", "PameeBebé\PameeBebé.vdproj", "{93CA3D52-F86F-45D7-A513-6FEDE6B596EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE7FB284-B31E-4C05-9BE7-7CA832AFCA17}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7FB284-B31E-4C05-9BE7-7CA832AFCA17}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{CE7FB284-B31E-4C05-9BE7-7CA832AFCA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7FB284-B31E-4C05-9BE7-7CA832AFCA17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93CA3D52-F86F-45D7-A513-6FEDE6B596EE}.Debug|Any CPU.ActiveCfg = Debug
+		{93CA3D52-F86F-45D7-A513-6FEDE6B596EE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BB219C6-91E7-4301-9AFB-F4DBBFB87AC2}
+	EndGlobalSection
+EndGlobal

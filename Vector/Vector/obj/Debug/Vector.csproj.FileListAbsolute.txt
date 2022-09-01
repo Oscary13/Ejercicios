@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Vector\Vector\bin\Debug\Vector.exe.config
+C:\Users\oscar\source\repos\Vector\Vector\bin\Debug\Vector.exe
+C:\Users\oscar\source\repos\Vector\Vector\bin\Debug\Vector.pdb
+C:\Users\oscar\source\repos\Vector\Vector\obj\Debug\Vector.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Vector\Vector\obj\Debug\Vector.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Vector\Vector\obj\Debug\Vector.exe
+C:\Users\oscar\source\repos\Vector\Vector\obj\Debug\Vector.pdb

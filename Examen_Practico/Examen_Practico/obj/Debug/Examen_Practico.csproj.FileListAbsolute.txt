@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Examen_Practico\Examen_Practico\bin\Debug\Examen_Practico.exe.config
+C:\Users\oscar\source\repos\Examen_Practico\Examen_Practico\bin\Debug\Examen_Practico.exe
+C:\Users\oscar\source\repos\Examen_Practico\Examen_Practico\bin\Debug\Examen_Practico.pdb
+C:\Users\oscar\source\repos\Examen_Practico\Examen_Practico\obj\Debug\Examen_Practico.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Examen_Practico\Examen_Practico\obj\Debug\Examen_Practico.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Examen_Practico\Examen_Practico\obj\Debug\Examen_Practico.exe
+C:\Users\oscar\source\repos\Examen_Practico\Examen_Practico\obj\Debug\Examen_Practico.pdb

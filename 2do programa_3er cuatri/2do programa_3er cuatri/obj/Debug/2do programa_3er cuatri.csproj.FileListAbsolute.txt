@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\2do programa_3er cuatri\2do programa_3er cuatri\bin\Debug\2do programa_3er cuatri.exe.config
+C:\Users\oscar\source\repos\2do programa_3er cuatri\2do programa_3er cuatri\bin\Debug\2do programa_3er cuatri.exe
+C:\Users\oscar\source\repos\2do programa_3er cuatri\2do programa_3er cuatri\bin\Debug\2do programa_3er cuatri.pdb
+C:\Users\oscar\source\repos\2do programa_3er cuatri\2do programa_3er cuatri\obj\Debug\2do programa_3er cuatri.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\2do programa_3er cuatri\2do programa_3er cuatri\obj\Debug\2do programa_3er cuatri.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\2do programa_3er cuatri\2do programa_3er cuatri\obj\Debug\2do programa_3er cuatri.exe
+C:\Users\oscar\source\repos\2do programa_3er cuatri\2do programa_3er cuatri\obj\Debug\2do programa_3er cuatri.pdb

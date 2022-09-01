@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARREGLO", "ConsoleApp1\ARREGLO.csproj", "{49980530-4BFE-4EB7-B592-7AA05811F4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49980530-4BFE-4EB7-B592-7AA05811F4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49980530-4BFE-4EB7-B592-7AA05811F4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49980530-4BFE-4EB7-B592-7AA05811F4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49980530-4BFE-4EB7-B592-7AA05811F4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B4C4F79-31C5-417E-916B-D606F1D7F6A8}
+	EndGlobalSection
+EndGlobal

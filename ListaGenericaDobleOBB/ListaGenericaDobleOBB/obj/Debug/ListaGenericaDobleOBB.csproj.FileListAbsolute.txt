@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\ListaGenericaDobleOBB\ListaGenericaDobleOBB\obj\Debug\ListaGenericaDobleOBB.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\ListaGenericaDobleOBB\ListaGenericaDobleOBB\obj\Debug\ListaGenericaDobleOBB.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\ListaGenericaDobleOBB\ListaGenericaDobleOBB\bin\Debug\ListaGenericaDobleOBB.exe.config
+C:\Users\oscar\source\repos\ListaGenericaDobleOBB\ListaGenericaDobleOBB\bin\Debug\ListaGenericaDobleOBB.exe
+C:\Users\oscar\source\repos\ListaGenericaDobleOBB\ListaGenericaDobleOBB\bin\Debug\ListaGenericaDobleOBB.pdb
+C:\Users\oscar\source\repos\ListaGenericaDobleOBB\ListaGenericaDobleOBB\obj\Debug\ListaGenericaDobleOBB.exe
+C:\Users\oscar\source\repos\ListaGenericaDobleOBB\ListaGenericaDobleOBB\obj\Debug\ListaGenericaDobleOBB.pdb

@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Figuaras geometricas\Figuaras geometricas\bin\Debug\Figuaras geometricas.exe.config
+C:\Users\oscar\source\repos\Figuaras geometricas\Figuaras geometricas\bin\Debug\Figuaras geometricas.exe
+C:\Users\oscar\source\repos\Figuaras geometricas\Figuaras geometricas\bin\Debug\Figuaras geometricas.pdb
+C:\Users\oscar\source\repos\Figuaras geometricas\Figuaras geometricas\obj\Debug\Figuaras geometricas.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Figuaras geometricas\Figuaras geometricas\obj\Debug\Figuaras geometricas.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Figuaras geometricas\Figuaras geometricas\obj\Debug\Figuaras geometricas.exe
+C:\Users\oscar\source\repos\Figuaras geometricas\Figuaras geometricas\obj\Debug\Figuaras geometricas.pdb

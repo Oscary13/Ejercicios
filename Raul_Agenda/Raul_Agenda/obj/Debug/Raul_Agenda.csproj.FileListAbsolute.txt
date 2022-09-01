@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Raul_Agenda\Raul_Agenda\bin\Debug\Raul_Agenda.exe.config
+C:\Users\oscar\source\repos\Raul_Agenda\Raul_Agenda\bin\Debug\Raul_Agenda.exe
+C:\Users\oscar\source\repos\Raul_Agenda\Raul_Agenda\bin\Debug\Raul_Agenda.pdb
+C:\Users\oscar\source\repos\Raul_Agenda\Raul_Agenda\obj\Debug\Raul_Agenda.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Raul_Agenda\Raul_Agenda\obj\Debug\Raul_Agenda.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Raul_Agenda\Raul_Agenda\obj\Debug\Raul_Agenda.exe
+C:\Users\oscar\source\repos\Raul_Agenda\Raul_Agenda\obj\Debug\Raul_Agenda.pdb

@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Clasee\Clasee\bin\Debug\Clasee.exe.config
+C:\Users\oscar\source\repos\Clasee\Clasee\bin\Debug\Clasee.exe
+C:\Users\oscar\source\repos\Clasee\Clasee\bin\Debug\Clasee.pdb
+C:\Users\oscar\source\repos\Clasee\Clasee\obj\Debug\Clasee.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Clasee\Clasee\obj\Debug\Clasee.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Clasee\Clasee\obj\Debug\Clasee.exe
+C:\Users\oscar\source\repos\Clasee\Clasee\obj\Debug\Clasee.pdb

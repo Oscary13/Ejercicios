@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Examen practico Raul_Hernandez\Examen practico Raul_Hernandez\bin\Debug\Examen practico Raul_Hernandez.exe.config
+C:\Users\oscar\source\repos\Examen practico Raul_Hernandez\Examen practico Raul_Hernandez\bin\Debug\Examen practico Raul_Hernandez.exe
+C:\Users\oscar\source\repos\Examen practico Raul_Hernandez\Examen practico Raul_Hernandez\bin\Debug\Examen practico Raul_Hernandez.pdb
+C:\Users\oscar\source\repos\Examen practico Raul_Hernandez\Examen practico Raul_Hernandez\obj\Debug\Examen practico Raul_Hernandez.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Examen practico Raul_Hernandez\Examen practico Raul_Hernandez\obj\Debug\Examen practico Raul_Hernandez.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Examen practico Raul_Hernandez\Examen practico Raul_Hernandez\obj\Debug\Examen practico Raul_Hernandez.exe
+C:\Users\oscar\source\repos\Examen practico Raul_Hernandez\Examen practico Raul_Hernandez\obj\Debug\Examen practico Raul_Hernandez.pdb

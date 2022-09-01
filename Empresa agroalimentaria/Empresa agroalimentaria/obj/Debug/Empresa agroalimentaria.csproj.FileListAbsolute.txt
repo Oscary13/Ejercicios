@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Empresa agroalimentaria\Empresa agroalimentaria\bin\Debug\Empresa agroalimentaria.exe.config
+C:\Users\oscar\source\repos\Empresa agroalimentaria\Empresa agroalimentaria\bin\Debug\Empresa agroalimentaria.exe
+C:\Users\oscar\source\repos\Empresa agroalimentaria\Empresa agroalimentaria\bin\Debug\Empresa agroalimentaria.pdb
+C:\Users\oscar\source\repos\Empresa agroalimentaria\Empresa agroalimentaria\obj\Debug\Empresa agroalimentaria.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Empresa agroalimentaria\Empresa agroalimentaria\obj\Debug\Empresa agroalimentaria.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Empresa agroalimentaria\Empresa agroalimentaria\obj\Debug\Empresa agroalimentaria.exe
+C:\Users\oscar\source\repos\Empresa agroalimentaria\Empresa agroalimentaria\obj\Debug\Empresa agroalimentaria.pdb

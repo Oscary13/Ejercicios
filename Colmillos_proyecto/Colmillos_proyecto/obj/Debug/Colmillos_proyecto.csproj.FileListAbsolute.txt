@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Colmillos_proyecto\Colmillos_proyecto\bin\Debug\Colmillos_proyecto.exe.config
+C:\Users\oscar\source\repos\Colmillos_proyecto\Colmillos_proyecto\bin\Debug\Colmillos_proyecto.exe
+C:\Users\oscar\source\repos\Colmillos_proyecto\Colmillos_proyecto\bin\Debug\Colmillos_proyecto.pdb
+C:\Users\oscar\source\repos\Colmillos_proyecto\Colmillos_proyecto\obj\Debug\Colmillos_proyecto.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Colmillos_proyecto\Colmillos_proyecto\obj\Debug\Colmillos_proyecto.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Colmillos_proyecto\Colmillos_proyecto\obj\Debug\Colmillos_proyecto.exe
+C:\Users\oscar\source\repos\Colmillos_proyecto\Colmillos_proyecto\obj\Debug\Colmillos_proyecto.pdb

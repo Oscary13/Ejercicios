@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\SELECCIÓN\SELECCIÓN\bin\Debug\SELECCIÓN.exe.config
+C:\Users\oscar\source\repos\SELECCIÓN\SELECCIÓN\bin\Debug\SELECCIÓN.exe
+C:\Users\oscar\source\repos\SELECCIÓN\SELECCIÓN\bin\Debug\SELECCIÓN.pdb
+C:\Users\oscar\source\repos\SELECCIÓN\SELECCIÓN\obj\Debug\SELECCIÓN.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\SELECCIÓN\SELECCIÓN\obj\Debug\SELECCIÓN.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\SELECCIÓN\SELECCIÓN\obj\Debug\SELECCIÓN.exe
+C:\Users\oscar\source\repos\SELECCIÓN\SELECCIÓN\obj\Debug\SELECCIÓN.pdb

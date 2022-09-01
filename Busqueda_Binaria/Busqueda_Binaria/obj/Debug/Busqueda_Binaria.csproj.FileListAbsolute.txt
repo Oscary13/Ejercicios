@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\Busqueda_Binaria.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\Busqueda_Binaria.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\Busqueda_Binaria.exe.config
+C:\Users\oscar\source\repos\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\Busqueda_Binaria.exe
+C:\Users\oscar\source\repos\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\Busqueda_Binaria.pdb
+C:\Users\oscar\source\repos\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\Busqueda_Binaria.exe
+C:\Users\oscar\source\repos\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\Busqueda_Binaria.pdb

@@ -1,0 +1,7 @@
+C:\Users\oscar\source\repos\Examen3_OscaryBasurtoBasurto\Examen3_OscaryBasurtoBasurto\bin\Debug\Examen3_OscaryBasurtoBasurto.exe.config
+C:\Users\oscar\source\repos\Examen3_OscaryBasurtoBasurto\Examen3_OscaryBasurtoBasurto\bin\Debug\Examen3_OscaryBasurtoBasurto.exe
+C:\Users\oscar\source\repos\Examen3_OscaryBasurtoBasurto\Examen3_OscaryBasurtoBasurto\bin\Debug\Examen3_OscaryBasurtoBasurto.pdb
+C:\Users\oscar\source\repos\Examen3_OscaryBasurtoBasurto\Examen3_OscaryBasurtoBasurto\obj\Debug\Examen3_OscaryBasurtoBasurto.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\Examen3_OscaryBasurtoBasurto\Examen3_OscaryBasurtoBasurto\obj\Debug\Examen3_OscaryBasurtoBasurto.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Examen3_OscaryBasurtoBasurto\Examen3_OscaryBasurtoBasurto\obj\Debug\Examen3_OscaryBasurtoBasurto.exe
+C:\Users\oscar\source\repos\Examen3_OscaryBasurtoBasurto\Examen3_OscaryBasurtoBasurto\obj\Debug\Examen3_OscaryBasurtoBasurto.pdb
